@@ -1,0 +1,67 @@
+[
+	{
+		"id" : 1,
+		"password" : "pbkdf2_sha256$320000$YQvAQyIehB47COSmZodgih$brQWhkdGb/etRPrBCJ/Rd+OdTfaUxmUIOItEW9JzgE4=",
+		"last_login" : "2022-12-13 15:44:39.319569",
+		"is_superuser" : 1,
+		"username" : "fredmorris",
+		"first_name" : "",
+		"last_name" : "",
+		"email" : "fredrickcpmorris@hotmail.com",
+		"is_staff" : 1,
+		"is_active" : 1,
+		"date_joined" : "2022-12-06 17:42:15.741026"
+	},
+	{
+		"id" : 2,
+		"password" : "pbkdf2_sha256$320000$pwZaiMwZsEw5AYR4pZ0dwC$ueMWb86eOgaGNwal9PKnhtAn5aS8Oi1B8Go1YGL2RA4=",
+		"last_login" : null,
+		"is_superuser" : 0,
+		"username" : "dantheman",
+		"first_name" : "Daniel",
+		"last_name" : "Tulpa",
+		"email" : "dan@devcodecamp.com",
+		"is_staff" : 0,
+		"is_active" : 1,
+		"date_joined" : "2022-12-13 20:24:10.040408"
+	},
+	{
+		"id" : 3,
+		"password" : "pbkdf2_sha256$320000$KZb5Bgf4DWjhQZ9UP4oynE$RtxUW3yMqGi7Vy6XEKvqJWMRdcBB6O/NeVYBxI2FLeA=",
+		"last_login" : null,
+		"is_superuser" : 0,
+		"username" : "TheZuck",
+		"first_name" : "Mark",
+		"last_name" : "Zuckerberg",
+		"email" : "MarkZ@gmail.com",
+		"is_staff" : 0,
+		"is_active" : 1,
+		"date_joined" : "2022-12-20 15:40:36.896528"
+	},
+	{
+		"id" : 4,
+		"password" : "pbkdf2_sha256$320000$0FcnavEti9OMDgjASTxUxV$rxtBZaATfXNyOSlGrfwjQPE2i3/YLRlpP6BWHcKutrs=",
+		"last_login" : null,
+		"is_superuser" : 0,
+		"username" : "MrBezos",
+		"first_name" : "Jeff",
+		"last_name" : "Bezos",
+		"email" : "JeffBezos@Amazon.com",
+		"is_staff" : 0,
+		"is_active" : 1,
+		"date_joined" : "2022-12-20 16:08:41.223032"
+	},
+	{
+		"id" : 5,
+		"password" : "pbkdf2_sha256$320000$VsjXhJmIFmWpWtvouVMg0t$+eM8CEBl/330ch258ZtvdTgLvCtMM2H6wBXhTdmr83A=",
+		"last_login" : null,
+		"is_superuser" : 0,
+		"username" : "fredrickMorris",
+		"first_name" : "Fred",
+		"last_name" : "Morris",
+		"email" : "FredrickMorris@hotmail.com",
+		"is_staff" : 0,
+		"is_active" : 1,
+		"date_joined" : "2023-01-11 19:26:34.438171"
+	}
+]

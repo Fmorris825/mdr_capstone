@@ -1,0 +1,296 @@
+[
+	{
+		"id" : 1,
+		"first_name" : "Fred",
+		"last_name" : "Johnson",
+		"email" : "FredJohnson@gmail.com",
+		"inquiry" : "Love 1681, Would be interested in touring it sometimes."
+	},
+	{
+		"id" : 2,
+		"first_name" : "Bo",
+		"last_name" : "John",
+		"email" : "BoJohn@hotmail.com",
+		"inquiry" : "Looking for a house."
+	},
+	{
+		"id" : 3,
+		"first_name" : "Bobby",
+		"last_name" : "Jon",
+		"email" : "bobbyJon@gmail.com",
+		"inquiry" : "looking for new apartment."
+	},
+	{
+		"id" : 4,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fred@hotmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 5,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@hotmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 6,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@hotmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 7,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@hotmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 8,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "john@hotmail.com",
+		"inquiry" : "trying test"
+	},
+	{
+		"id" : 9,
+		"first_name" : "harpy",
+		"last_name" : "joes",
+		"email" : "harpy@gmail.com",
+		"inquiry" : "looking for a box"
+	},
+	{
+		"id" : 10,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "Morrs@gmail.com",
+		"inquiry" : "box"
+	},
+	{
+		"id" : 11,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morris@gmail.com",
+		"inquiry" : "rectangle"
+	},
+	{
+		"id" : 12,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "hello@box.com",
+		"inquiry" : "kool"
+	},
+	{
+		"id" : 13,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "hello@box.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 14,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fred@gmail.com",
+		"inquiry" : "collio"
+	},
+	{
+		"id" : 15,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fred@gmil.com",
+		"inquiry" : "testtttt"
+	},
+	{
+		"id" : 16,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "box@gmail.com",
+		"inquiry" : "thanks"
+	},
+	{
+		"id" : 17,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 18,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 19,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 20,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "test@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 21,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "Looking for House"
+	},
+	{
+		"id" : 22,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "Test"
+	},
+	{
+		"id" : 23,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "TET"
+	},
+	{
+		"id" : 24,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 25,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "test10"
+	},
+	{
+		"id" : 26,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fredrickcpmorris@hotmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 27,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "hot@dog.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 28,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "hot@doggy.com",
+		"inquiry" : "TEST"
+	},
+	{
+		"id" : 29,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "hot@doggy.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 30,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "hot@doggy.com",
+		"inquiry" : "testing"
+	},
+	{
+		"id" : 31,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "testing"
+	},
+	{
+		"id" : 32,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fredrickcpmorris@hotmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 33,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 34,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "TEST"
+	},
+	{
+		"id" : 35,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "testttt"
+	},
+	{
+		"id" : 36,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fredrickcpmorris@hotmail.com",
+		"inquiry" : "testing"
+	},
+	{
+		"id" : 37,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 38,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 39,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "test"
+	},
+	{
+		"id" : 40,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "morrisf825schs@gmail.com",
+		"inquiry" : "looking for a house"
+	},
+	{
+		"id" : 41,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "fredrickcpmorris@hotmail.com",
+		"inquiry" : "Looking for a new home in Dallas Texas"
+	},
+	{
+		"id" : 42,
+		"first_name" : "Fredrick",
+		"last_name" : "Morris",
+		"email" : "FredrickMorris@hotmail.com",
+		"inquiry" : "Looking for a new Home."
+	}
+]

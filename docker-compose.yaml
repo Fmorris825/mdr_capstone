@@ -1,0 +1,105 @@
+# version: "3.1"
+# services:
+#   frontend:
+#     build: ./frontend
+#     ports:
+#       - 3001:80
+#     depends_on:
+#       - "capstone-app-backend"
+#   capstone-app-database:
+#     build: ./database
+#     ports:
+#       - 3307:3306
+#     environment:
+#       - MYSQL_ROOT_PASSWORD=password
+#     restart: always
+#     # volumes:
+#     #   - db-data:/var/lib/mysql
+#   capstone-app-backend:
+#     build: ./backend
+#     ports:
+#       - 8000:8000
+#     restart: always
+#     depends_on:
+#       - "capstone-app-database"
+#     command: >
+#       sh -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+#   volumes:
+#     db-data:
+
+version: "3"
+services:
+  database:
+    # build: ./database
+    image: fmorris825/capstone-capstone-database
+    ports:
+      - 3307:3006
+    environment:
+      - MYSQL_ROOT_PASSWORD=password
+    restart: always
+    volumes:
+      - db-data:/var/lib/mysql
+  backend:
+    # build: ./backend
+    image: fmorris825/capstone-capstone-backend
+    ports:
+      - 5001:5000
+    restart: always
+    depends_on:
+      - "database"
+    command: >
+      sh -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0"
+  frontend:
+    # build: ./frontend
+    image: fmorris825/capstone-frontend
+    ports:
+      - 80:80
+    depends_on:
+      - "backend"
+volumes:
+  db-data:
+# version: "3"
+# services:
+#   db:
+#     image: mysql:latest
+#     environment:
+#       MYSQL_ROOT_PASSWORD: password
+#       MYSQL_DATABASE: real_estate_capstone_db
+#     volumes:
+#       - db_data:/var/lib/mysql
+#     ports:
+#       - "3307:3306"
+#     networks:
+#       - backend
+#     # restart: always
+#     # volumes:
+#     #   - db-data:/var/lib/mysql
+#   backend:
+#     build: ./backend
+#     ports:
+#       - 8000:8000
+#     command: >
+#       sh -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+#     restart: always
+#     depends_on:
+#       - "db"
+#     environment:
+#       - DATABASE_URLmysql://root:real_estate_capstone_db@db/real_estate_capstone_db
+#     networks:
+#       - backend
+
+#   frontend:
+#     build: ./frontend
+#     command: npm start
+#     ports:
+#       - 80:3000
+#     networks:
+#       - frontend
+# networks:
+#   backend:
+#     driver: bridge
+#   frontend:
+#     driver: bridge
+# volumes:
+#   db_data:
+

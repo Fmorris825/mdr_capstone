@@ -1,0 +1,74 @@
+[
+	{
+		"id" : 1,
+		"address" : "8901 Crescent Ct",
+		"description" : "2 Story Home with attached Garage for Two.",
+		"listing_price" : 589000,
+		"photo_url" : "https://photos.zillowstatic.com/fp/db03546331d16cdffbf417062930050d-uncropped_scaled_within_1536_1152.webp",
+		"user_id" : 1,
+		"beds" : 4,
+		"city" : "Irving, Texas",
+		"type" : "Single Family Home",
+		"baths" : 3.0
+	},
+	{
+		"id" : 2,
+		"address" : "715 Sundance Trail",
+		"description" : "1 Story Home with Two attached Garages.",
+		"listing_price" : 500000,
+		"photo_url" : "https://photos.zillowstatic.com/fp/4890db8bcb2925ea053a14d69d105e29-cc_ft_1536.webp",
+		"user_id" : 1,
+		"beds" : 3,
+		"city" : "Irving, Texas",
+		"type" : "Single Family Home",
+		"baths" : 2.0
+	},
+	{
+		"id" : 4,
+		"address" : "6426 Lakeshore Dr",
+		"description" : "1 Story, 2 Garage Spaces Uncovered.",
+		"listing_price" : 949000,
+		"photo_url" : "https://photos.zillowstatic.com/fp/e482220ae821347113c0952253b409f9-uncropped_scaled_within_1536_1152.webp",
+		"user_id" : 1,
+		"beds" : 4,
+		"city" : "Dallas, Texas",
+		"type" : "Single Family Home",
+		"baths" : 3.0
+	},
+	{
+		"id" : 5,
+		"address" : "9331 Peninsula Dr",
+		"description" : "1 Story Home with Two attached Garages. (New Construction)",
+		"listing_price" : 1775000,
+		"photo_url" : "https://photos.zillowstatic.com/fp/b3a1c917a3648961cefb04e70e51063f-uncropped_scaled_within_1536_1152.webp",
+		"user_id" : 1,
+		"beds" : 4,
+		"city" : "Dallas, Texas",
+		"type" : "Single Family Home",
+		"baths" : 3.0
+	},
+	{
+		"id" : 9,
+		"address" : "347 Razzor",
+		"description" : "Modern 2 Story Home, with Pool & Garage.",
+		"listing_price" : 750000,
+		"photo_url" : "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2350&q=80",
+		"user_id" : 1,
+		"beds" : 3,
+		"city" : "Austin, Texas",
+		"type" : "Single Family Home",
+		"baths" : 3.5
+	},
+	{
+		"id" : 10,
+		"address" : "987 Cransmen",
+		"description" : "Modern 2 Story Home with Pool & Garage.",
+		"listing_price" : 800000,
+		"photo_url" : "https://images.unsplash.com/photo-1613977257365-aaae5a9817ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+		"user_id" : 1,
+		"beds" : 5,
+		"city" : "Dallas, Texas",
+		"type" : "Single Family Home",
+		"baths" : 5.5
+	}
+]
